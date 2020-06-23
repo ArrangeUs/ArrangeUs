@@ -21,6 +21,10 @@ Link to privacy policy of third party service providers used by the app
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
+## Sensitive Data
+
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your name, surname, age, email, race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
+
 ## Service Providers
 
 We may employ third-party companies and individuals due to the following reasons:
