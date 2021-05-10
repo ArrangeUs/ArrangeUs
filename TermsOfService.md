@@ -1,12 +1,18 @@
 # Terms of Service
 
+Thanks for Choosing ArrangeUs!
+
 Please be sure to read over the details in these Terms. By signing up for a subscription with ArrangeUs you agree that you have read, understand the contents of, and agree to all terms and conditions. Should you have any questions concerning this Agreement, please contact arrangeusapp@gmail.com.
 
 These terms and conditions are between the user and ArrangeUs governing use of ArrangeUs services (the "Services").
 
 ## Accepting the Terms
 
-By using ArrangeUs Services you understand and agree that we will treat your use of the Services as acceptance of the Terms from that point onwards. This Agreement may be updated from time to time. You can view these terms, conditions and notices (these "Terms") at any time here. Your continued use of the Services signifies your binding acceptance of the changes. This Agreement will always be available on this page for you to read.
+By using ArrangeUs Services you understand and agree that we will treat your use of the Services as acceptance of the Terms from that point onwards. This Agreement may be updated from time to time. You can view these terms, conditions and notices (these "Terms") at any time here. Your continued use of the Services signifies your binding acceptance of the changes. This Agreement will always be available on this page for you to read. You should discontinue your use of our Service if you do not agree with updated/modified Terms.
+
+## Privacy Protection
+
+ArrangeUs's privacy policies explain how we treat your personal data and protect your privacy when using our Service. By using our Service, you automatically agree to our privacy policies and ArrangeUs can use such data in accordance with its privacy policies.
 
 ## Prohibited uses
 
